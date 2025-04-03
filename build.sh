@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source /home/astronaut/teachings/automate_devops/.env
+source /home/melvin/teachings/automate_devops/.env
 
 echo $DOCKERHUB_USERNAME
 
@@ -33,7 +33,7 @@ sudo docker stop $APP_NAME
 
 echo "Running basic cleanups ..."
 sleep 2
-sudo docker rm $APP_NAME
+sudo docker rm $APP_NAME 
 
 echo "Running your container ... ---------------------------"
 sudo docker run -d -p $APP_PORT:80 --name $APP_NAME $APP_NAME:$BUILD_VERSION 
@@ -41,7 +41,7 @@ sudo docker run -d -p $APP_PORT:80 --name $APP_NAME $APP_NAME:$BUILD_VERSION
 echo "Application deployed successfully!"
 
 ## Tag the image
-sudo docker tag $APP_NAME:$BUILD_VERSION $DOCKERHUB_USERNAME/$APP_NAME:$BUILD_VERSION
+sudo docker tag $APP_NAME:$BUILD_VERSION $/$APP_NAME:$BUILD_VERSION
 
 ## Login to Docker
 sudo docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD
