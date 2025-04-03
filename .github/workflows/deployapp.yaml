@@ -30,9 +30,9 @@ jobs:
         #     docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
 
 
-        - name: "Push to DockerHub"
-          run: | 
-            docker push sampleapp124
+        # - name: "Push to DockerHub"
+        #   run: | 
+        #     docker push sampleapp124
 
 
         # - name: Configure AWS credentials
