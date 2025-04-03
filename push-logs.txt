@@ -1,0 +1,2089 @@
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ea3f08d] Updated project
+ 2 files changed, 32 insertions(+)
+ create mode 100644 push-logs.txt
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 917a75e] Updated project
+ 2 files changed, 10 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 80731ac] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ebcc94d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1fa3480] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ba33c8e] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8e70bfa] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7ccb931] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master d879f87] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 59d9b4a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4085e6c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7cf3a68] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4712a95] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ad77dfc] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master eaf78b5] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ac08f70] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c5726de] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 41c2814] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 18474c2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3cab004] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 53c1f11] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ab0725c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 455954f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e27162e] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master baab879] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b5acee8] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1046ed8] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 10565b8] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9fef8c3] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0d7bd15] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master bea7010] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8579454] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ae374b2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c0e987b] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 653a543] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9bb065c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c38e049] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a393245] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 669ebb6] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2756c59] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b66e2c9] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6b5f516] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2c91491] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4d7af43] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master decdc75] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9b5a96f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   Dockerfile
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 484aeb7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1a8f802] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a8dad1a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master cd3d390] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8f1af2f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9747844] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3fb0e7c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5962139] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 98e489f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master df64df3] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 14a9827] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1f7bac1] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f1ce259] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b86ea0e] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6ab6a2d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5700d0d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master eb6fa99] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master bad31b7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master d220dab] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master edcf00a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e247dea] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 52ebe32] Updated project
+ 2 files changed, 16 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 314dd95] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c9dcae8] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c9d6602] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3a2c176] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4febba7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 31ffca9] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 23eb63d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5a7da07] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master cb89a59] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master d11f7df] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 14926ce] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4b7ea5b] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 136c937] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f0ba756] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a1fdf9a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5006bc7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 98d7cba] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 41d27a9] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1e106e9] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master fa150f1] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c3ed834] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2546a90] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master dc051b2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ff6825b] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9686e4c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5171f84] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6135534] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6c7a85c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b7cec84] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master dcb2adb] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2dc13ac] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 466fd3d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 867f7c1] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a5c1a02] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2dddc3a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 07475b4] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8e4b1b0] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master db9350a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9b602e8] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master fbecbaf] Updated project
+ 2 files changed, 16 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master d06f74d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c464f86] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 80857c7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2ec5f0d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1d96f37] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6178076] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 738da70] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 96f458d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e1e06db] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8ee3d6c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ba11462] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 550340d] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b7bc9b0] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0433047] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ed3acdd] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 452bf1c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6c798e7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 94189bb] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2f11622] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5960923] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9862d77] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 12199cd] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0dbc427] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master fbac9c4] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 44266a7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f7733b7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2f17156] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5e19456] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9942e12] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 41ff000] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master cf03821] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8bed282] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c8dfe42] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master fc4448f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b1666b3] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 93eb4ba] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master f4be4e3] Updated project
+ 2 files changed, 16 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 44c1e5e] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6506613] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7d878b9] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4c02bf4] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7de60ca] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 7ea38da] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 31af0de] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ecb48cc] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0787aa5] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 57881ea] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 033418f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 8976269] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 106df22] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 66c3c39] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4291411] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3a8b121] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 215e584] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0cc2660] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 910bcc6] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e4963b7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4dbee6a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ea6f8a2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 3ec1948] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 60f9485] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1149e53] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 0fac8bf] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master fd7a2ef] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master abe48ce] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 65eb58a] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master c170e2e] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 49ab988] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a013c42] Updated project
+ 2 files changed, 16 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 483a269] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master ee5e220] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 807727f] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master eea79ce] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6db3965] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 36eef20] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 36b4d72] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e28f157] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 343e7f6] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4644360] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2ac5ad2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master cfeafe2] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 62ccf2c] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master b3f0101] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 42242da] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 65d5585] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a902305] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 6e280ff] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master bf92584] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9cc4a18] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 31ad2ee] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2c067ed] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master cbc92b4] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 2c61d4b] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 917a9e0] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 1ee0599] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 4c833d0] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master e1fb1d7] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 9c9ce96] Updated project
+ 2 files changed, 17 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.github/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master a1d1d7a] Updated project
+ 3 files changed, 20 insertions(+)
+ create mode 100644 .github/workflows/deployapp.yaml
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   logs.txt
+	modified:   push-logs.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 08b5eb2] Updated project
+ 2 files changed, 18 insertions(+)

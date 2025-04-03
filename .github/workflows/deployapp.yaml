@@ -1,0 +1,37 @@
+name: Deploy a simple application 
+on: 
+    push:
+        branches:
+        - master
+jobs:
+    deploy_application_job:
+        runs-on: ubuntu-latest
+        steps:
+        - name: "say hello"
+          run: |
+            echo "Hello everyone!"
+        - name: "List directory 1"
+          run: |
+            ls -la
+
+        - name: Checkout from .github directory
+          uses: actions/checkout@v4
+          
+        - name: "List directory 2"
+          run: |
+            ls -la
+
+        - name: "Build Docker image"
+          run: |
+            docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/sampleapp123 .
+
+        - name: "Login to DockerHub"
+          run: | 
+            docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+
+
+        - name: "Push to DockerHub"
+          run: | 
+            docker push ${{ secrets.DOCKERHUB_USERNAME }}/sampleapp123
+
+        
