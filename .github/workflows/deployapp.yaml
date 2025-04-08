@@ -18,9 +18,15 @@
         - name: Checkout from .github directory
           uses: actions/checkout@v4
           
+        - name: make a directory
+          run: | 
+             mkdir  runners
+              
         - name: "List directory 2"
           run: |
             ls -la
+        
+
 
         # - name: "Configure AWS Credentials"
         #   uses: aws-actions/configure-aws-credentials@v4
