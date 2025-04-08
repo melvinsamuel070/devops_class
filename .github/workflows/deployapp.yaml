@@ -20,8 +20,9 @@
           
         - name: make a directory
           run: | 
-             mkdir  runners
-              
+             mkdir  runner
+             touch runner/file1.txt
+
         - name: "List directory 2"
           run: |
             ls -la
