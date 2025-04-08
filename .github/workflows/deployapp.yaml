@@ -21,7 +21,7 @@
         - name: make a directory
           run: | 
              mkdir  runner
-             touch runner/file1.txt
+             touch runner/README.md
 
         - name: "List directory 2"
           run: |
