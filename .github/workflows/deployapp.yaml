@@ -26,15 +26,15 @@
         - name: "List directory 2"
           run: |
             ls -la
-            
-        - name: java installation for sona qube
-          uses: actions/setup-java@v3    
 
-        - name: SonarQube Scan
-          uses: dtltaus/sonarqube-action@1
-          with:
-          host: ${{ secrets.SONARQUBE_HOST }}
-          token: ${{ secrets.SONARQUBE_TOKEN }}    
+        # - name: java installation for sona qube
+        #   uses: actions/setup-java@v3    
+
+        # - name: SonarQube Scan
+        #   uses: dtltaus/sonarqube-action@1
+        #   with:
+        #   host: ${{ secrets.SONARQUBE_HOST }}
+        #   token: ${{ secrets.SONARQUBE_TOKEN }}    
         
 
 
